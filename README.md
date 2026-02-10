@@ -1,4 +1,4 @@
-# mark3.2.0 (HSHKD A-Mark)
+# Mark3.2.0 (HSHKD A-Mark)
 
 Mark3.2 is the final capstone model for inter-floor noise audio classification, validated via semi-supervised learning and hard–soft hybrid knowledge distillation (HSHKD).
 This version consolidates knowledge from Mark2.5 – Mark2.9 and was presented as an oral paper at CSA 2025.
