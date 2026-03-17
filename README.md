@@ -27,8 +27,10 @@ Authors: Su Jin Ahn, Young Min Jeon, Jea Pil Ko, Ji Su Park
 Presenter: Su Jin Ahn  
 Corresponding Author: Ji Su Park  
 
-Proceedings / DOI:  
-- TBD  
+Published in: Proceedings of CSA 2025, Lecture Notes in Electrical Engineering, Vol. 1583, Springer Singapore, 2026  
+DOI (Chapter): 10.1007/978-981-95-7896-2_41  
+DOI (Book): 10.1007/978-981-95-7896-2  
+Publication Date: 2026-05-24 
 
 
 ## 3) Reported results (from the CSA 2025 paper)
